@@ -15,6 +15,10 @@ Grid while placing ships.
 #
 Grid while shooting at your opponent's grid.
 
+0 = Miss; X = Hit
+
+
+
 ![VsDebugConsole_HB6vAOTk6E](https://user-images.githubusercontent.com/118499440/218415787-5422f9e7-05f2-438e-986d-e4b9eb0360fe.png)
 
 
