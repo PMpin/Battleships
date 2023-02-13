@@ -1,6 +1,6 @@
 # Description
 
-Battleship console game that you play against a computer which places and guesses based on random number generation without any algorithm.
+Battleship console game that you play against a computer which places and guesses based on **random number generation** without any algorithm.
 
 # Grid
 It does not let you place ships on top of each other or take a shot at the same grid more than once.
